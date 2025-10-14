@@ -6,14 +6,14 @@
 - ⚡ Fun fact: I make beats for music in my free time
 Projects
 Ecommerce platform
-Live demo:
-https://ecommerce-webite-orpin.vercel.app/
-Code: https://github.com/HoreciaW/WebProjects
+-Live demo: https://ecommerce-webite-orpin.vercel.app/
+
+-Code: https://github.com/HoreciaW/WebProjects
+
 Pipboy website
-Live demo:
-pipboy-game-project.vercel.app
-Code:
-https://github.com/HoreciaW/Pipboy-game-project
+-Live demo: pipboy-game-project.vercel.app
+
+-Code: https://github.com/HoreciaW/Pipboy-game-project
 
 
 <!---
