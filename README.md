@@ -4,8 +4,12 @@
 - Email: williamshorecia@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I make beats for music in my free time
+
+
 Projects
+
 Ecommerce platform
+
 -Live demo: https://ecommerce-webite-orpin.vercel.app/
 
 -Code: https://github.com/HoreciaW/WebProjects
