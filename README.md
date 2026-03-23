@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Horecia Williams
-- 👀 I’m interested in doing any type of front end development work
 - 🌱 I’m currently learning studying Electromechanical Engineering Technology
 - Email: williamshorecia@gmail.com
 - 😄 Pronouns: She/her
